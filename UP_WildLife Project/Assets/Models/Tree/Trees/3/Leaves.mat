@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Leaves
+  m_Shader: {fileID: -6465566751694194690, guid: 755f5536e7dee5b49ace71e79df34240, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1794FEFA:
+        m_Texture: {fileID: 2800000, guid: e45d72f59bb9ac947b225debb435ac6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_68C98DE2:
+        m_Texture: {fileID: 2800000, guid: 222a61cd2e288094593ac6a15764163e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_76942EF4:
+        m_Texture: {fileID: 2800000, guid: 4f1a00787e114d342838468d47b77613, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_920379CE:
+        m_Texture: {fileID: 2800000, guid: 0e654fbc91c39c44d8a90fdc74c46af7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3B8FC5A7: 5
+    - Vector1_7E0D0756: 0.07
+    - Vector1_C5A32978: -5
+    - Vector1_DBB7BA07: 0
+    - Vector1_a24e09a8ecc74ed39005575b8ee84b0d: 0
+    - Vector1_dcc47d81f88147d28c89ae43a383e1d2: -8
+    m_Colors:
+    - Color_5a5259a6f7854a2c8ccd96113f0f1c70: {r: 0, g: 0, b: 0, a: 0}
+    - Color_86D20270: {r: 0.9339623, g: 0.3081901, b: 0, a: 1}
+    - Vector2_5402ED27: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

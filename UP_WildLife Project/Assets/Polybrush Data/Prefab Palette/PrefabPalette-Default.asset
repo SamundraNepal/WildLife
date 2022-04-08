@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc38003c0e0db6641a4762d4f392de52, type: 3}
+  m_Name: PrefabPalette-Default
+  m_EditorClassIdentifier: 
+  prefabs:
+  - gameObject: {fileID: 8412719292652916394, guid: 8583afb67d1a16f4c88b77ec3fb2c1be, type: 3}
+    settings:
+      m_Strength: 50
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: 1
+  - gameObject: {fileID: 576812399146053107, guid: 9bc41a26a85e294449535c22159d0bec, type: 3}
+    settings:
+      m_Strength: 100
+      m_RotationRangeMin: {x: 0, y: 106.630424, z: 83.15217}
+      m_RotationRangeMax: {x: 136.95651, y: 106.630424, z: 83.15217}
+      m_ScaleRangeMin: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMax: {x: 0, y: 0, z: 1}
+      m_UniformScale: {x: 0.3612566, y: 1.0994763}
+      m_UniformBool: 1
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 1
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: 1
+  - gameObject: {fileID: 1513735345415859665, guid: 847bc77045186224a91f14455aa466a8, type: 3}
+    settings:
+      m_Strength: 37.1
+      m_RotationRangeMin: {x: 0, y: 73.36956, z: 87.065216}
+      m_RotationRangeMax: {x: 0, y: 73.36956, z: 87.065216}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1.7900523, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: Tree 3
+  - gameObject: {fileID: 7566146258899375779, guid: 5ebeef0d8331ef44ab454cfb06b0f9b2, type: 3}
+    settings:
+      m_Strength: 85.653564
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 0, z: 1}
+      m_ScaleRangeMax: {x: 0.1, y: 10, z: 1}
+      m_UniformScale: {x: 1, y: 0.1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: 2
+  - gameObject: {fileID: 4741859099425752590, guid: 33bef596f7d88db43b792fdfd385d46d, type: 3}
+    settings:
+      m_Strength: 100
+      m_RotationRangeMin: {x: 231.84781, y: 74.347824, z: 0}
+      m_RotationRangeMax: {x: 231.84781, y: 74.347824, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 10, z: 1}
+      m_UniformScale: {x: 0.49831712, y: 0.1}
+      m_UniformBool: 0
+      m_XRotationBool: 0
+      m_YRotationBool: 0
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: 9

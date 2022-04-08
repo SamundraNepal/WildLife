@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clounds
+  m_Shader: {fileID: -6465566751694194690, guid: 17f56833af79c3e4389fc418f12558fe, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_1528692C: 20
+    - Vector1_3ED1E737: -3.5
+    - Vector1_7B36DA99: 0
+    - Vector1_BE834B4: 18.53
+    - Vector1_DFAA3426: 0.01
+    - Vector1_F28ACA95: 3.52
+    - Vector1_F849AAC3: 0
+    m_Colors:
+    - Color_1267D250: {r: 1, g: 1, b: 1, a: 0}
+    - Color_46A7921A: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

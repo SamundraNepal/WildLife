@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hook
+  - HookAble
+  - Elephant
+  - Ledge
+  - Ground
+  - Pipe
+  - Rope
+  - RopeHook
+  - NewRope
+  - Check
+  - RopeHand
+  - Slider
+  - Water
+  - Enemies
+  - EnemyPoint
+  - Trees
+  - PlayerAttack
+  - BlockCollider
+  - GunEnemy
+  - EnemyAttack
+  - PlayerBlock
+  - Fox
+  - Birds
+  - EnemyHead
+  - Cover
+  - Helicopter
+  - GM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - PostProcessing
+  - Ledges
+  - Player
+  - GrapAbleObject
+  - Slider
+  - Ground
+  - Walk Tower
+  - Enviroment
+  - CurrrentCheckSpot
+  - Fire
+  - Cover
+  - Helicopter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
